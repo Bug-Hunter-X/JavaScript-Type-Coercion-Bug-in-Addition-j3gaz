@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript bug related to type coercion during addition. The bug arises when adding a number and a string, resulting in unexpected string concatenation instead of numerical addition. The solution showcases how to prevent this by using explicit type conversion or by ensuring that all operands are of the same type (numbers).
